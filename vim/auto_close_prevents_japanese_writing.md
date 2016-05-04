@@ -11,7 +11,7 @@ gVimの問題?
 `.vimrc`にて以下のようにコメントアウトすることで、日本語入力できるようになった。
 
 ```
-# NeoBundle 'Townk/vim-autoclose'
+" NeoBundle 'Townk/vim-autoclose'
 ```
 
 代わりに`.gvimrc`にて以下を設定。
