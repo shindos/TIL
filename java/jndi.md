@@ -1,4 +1,4 @@
-# JNDI
+## JNDI
 - Java Naming and Directory Interface
   - Javaから以下を扱うためのインターフェースを規定した仕様
     - ネーミングサービス
